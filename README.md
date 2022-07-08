@@ -37,6 +37,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Maratona Explorer 2.0 busca desenvolver um Website que possa ser utilizado por alunos e instrutores para gerenciar links.
 
+Link do projeto [Rocket Links](https://jhonsondrc.github.io/Explorer2/).
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1125601602315782027). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
@@ -44,6 +46,5 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://raw.githubusercontent.com/jhonsondrc/Explorer2/main/LICENSE) para mais detalhes.
-
 ---
 By [RocketSeat](https://www.rocketseat.com.br/)
