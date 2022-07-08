@@ -1,11 +1,10 @@
 <h1 align="center">
-  <strong>Explorer 2.0</strong>
+  <strong>Maratona Explorer 2.0</strong>
 </h1>
 
 ### **Instrutor:** Maik Brito
 ### **Aluno:** Jhonson Douglas
 ### **Período:** 03/07 - 06/07 de 2022
-
 ---
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -44,7 +43,10 @@ Link do projeto [Rocket Links](https://jhonsondrc.github.io/Explorer2/).
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1125601602315782027). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
+<p align="justify">
+  
+  Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://raw.githubusercontent.com/jhonsondrc/Explorer2/main/LICENSE) para mais detalhes.
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://raw.githubusercontent.com/jhonsondrc/Explorer2/main/LICENSE) para mais detalhes.
+</p>
 ---
 By [RocketSeat](https://www.rocketseat.com.br/)
